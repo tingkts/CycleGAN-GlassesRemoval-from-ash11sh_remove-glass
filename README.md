@@ -1,4 +1,4 @@
-Forked [ash11sh/remove-glass](https://github.com/ash11sh/remove-glass). Demo it in Windows 10.
+Forked from [ash11sh/remove-glass](https://github.com/ash11sh/remove-glass). Demo it in Windows 10.
 
 Usage :
 
@@ -11,7 +11,7 @@ Usage :
   ```
 
 
-- Run the web-app locally using command : &nbsp;`python app/server.py serve`
+- Run the web-app locally using command :
 
   ```
     cd ash11sh_remove-glass
