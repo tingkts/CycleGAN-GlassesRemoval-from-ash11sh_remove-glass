@@ -29,4 +29,4 @@ Usage :
 
 - Open Browser page : &nbsp;`localhost:5001`
 
-   <img src="" width="50%" height="50%">
+   <img src="https://github.com/tingkts/CycleGAN-GlassesRemoval-from-ash11sh_remove-glass/blob/main-notes/localhost%EF%BC%9A5001.png" width="50%" height="50%">
