@@ -196,7 +196,7 @@ async def homepage(request):
         os.remove("app/removal.png")
     else:
         print("The file does not exist")
-    return HTMLResponse(html_file.open().read())
+    return HTMLResponse(html_file.open(encoding="utf-8").read())
 
 
 @app.route("/removal", methods=["POST", "GET"])
